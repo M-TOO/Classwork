@@ -24,6 +24,10 @@ def is_palindrome(s):
 
 
 s=input("Enter a word:\n").strip()
+#To abide by the constraints given
+if not (1<=len(s)<=50):
+    print("This value is bot allowed")
+    exit()
 if is_palindrome(s):
     print(f"The word is, {s}, is a palindrome.")
 
