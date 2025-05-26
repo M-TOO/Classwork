@@ -9,7 +9,7 @@ class PalindromeC:
 
     def pop(self):
         return  self.stack.pop()
-# This is the definition of a 
+# This is the definition of a function that holds the inputed value
 def is_palindrome(s):
 
     checker=PalindromeC()
@@ -23,10 +23,10 @@ def is_palindrome(s):
     return True
 
 
-s=input("Enter a word:\n").strip()
+s=input("Enter a word:\n").strip().lower()
 #To abide by the constraints given
 if not (1<=len(s)<=50):
-    print("This value is bot allowed")
+    print("This value is not allowed")
     exit()
 if is_palindrome(s):
     print(f"The word is, {s}, is a palindrome.")
