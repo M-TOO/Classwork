@@ -9,7 +9,7 @@ class PalindromeC:
 
     def pop(self):
         return  self.stack.pop()
-
+# This is the definition of a 
 def is_palindrome(s):
 
     checker=PalindromeC()

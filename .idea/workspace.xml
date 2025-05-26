@@ -45,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Palindrome.executor": "Run",
-    "Python.linkedlists.executor": "Run",
-    "Python.linkedlists2.executor": "Run",
-    "Python.stacksb.executor": "Run",
-    "Python.stacksudinglinkedlists.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Palindrometest",
-    "last_opened_file_path": "C:/Users/mercy/PycharmProjects/demo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkedlists2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stacksb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stacksudinglinkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Palindrometest&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mercy/PycharmProjects/demo&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -114,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748203736608</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Palindrome Checking">
+      <option name="closed" value="true" />
+      <created>1748236875749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748236875749</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
