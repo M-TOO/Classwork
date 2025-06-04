@@ -17,11 +17,11 @@ test_cases = [
     ("hello", False, 2),
     ("A man, a plan, a canal, Panama", True, 3),
     ("Doc, note I dissent. A fast never prevents a fatness. I diet on cod.", True, 3),
-    ("Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man — a prisoner up to new era", True, 3)
+    ("Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man — a prisoner up to new  era", True, 3)
 ]
 
 for text, expected, mk in test_cases:
-    result = is_palindrome_using_stack(text)
+    result = is_palindrome(text)
     if result == expected:
         print(f"✓ Test passed for: '{text[:30]}...' (+{mk})")
         _crypt_toll += mk
