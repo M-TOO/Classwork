@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="This is a code to learn the integration of linked list to queues">
-      <change afterPath="$PROJECT_DIR$/QueueswithCircularArrays.py" afterDir="false" />
-    </list>
+    <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="This is a code to learn the integration of linked list to queues" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,22 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Palindrome.executor": "Run",
-    "Python.Queuesusinglinkedlists.executor": "Run",
-    "Python.QueueswithCircularArrays.executor": "Run",
-    "Python.dictionary_palindrome.executor": "Run",
-    "Python.linkedlists.executor": "Run",
-    "Python.linkedlists2.executor": "Run",
-    "Python.stacksb.executor": "Run",
-    "Python.stacksudinglinkedlists.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "queueswitharrays",
-    "last_opened_file_path": "C:/Users/mercy/PycharmProjects/Classwork"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Queuesusinglinkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QueueswithCircularArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkedlists2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stacksb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stacksudinglinkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;queueswitharrays&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mercy/PycharmProjects/Classwork&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mercy\PycharmProjects\Classwork" />

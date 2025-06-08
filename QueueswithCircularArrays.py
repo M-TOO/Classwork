@@ -49,7 +49,7 @@ class Circulararrayqueue:
         #It implements ...the mvmt in a circular linked list by pointing the front pointer to the next position
         if self.is_Empty():
             raise Empty('The queue is currently empty')
-        #Then after,we get the element at the frnt of the queue and save it
+        #Then after,we get the element at the front of the queue and save it
         item_to_dequeue=self._data[self._front]
 
         #Clear the old front position to help with garbage collection??
@@ -62,6 +62,7 @@ class Circulararrayqueue:
 
         #Move the front pointer to the next position
         #The modulo(%) makes it wrap around,if we are at the last position add 1,which will go pstn 0
+        self._front=(self._front +1) %len(self._data)
 
         self._size-=1
 
@@ -148,7 +149,7 @@ if __name__== '__main__':
 
     for person in more_people:
         queue.enqueue(person)
-        print(f"Added {person}.Queue sixe now: {len(queue)}")
+        print(f"Added {person}.Queue size now: {len(queue)}")
 
 
     print(f"\n Person currently at the front: {queue.first()}")
