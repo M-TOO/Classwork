@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="last commit">
       <change afterPath="$PROJECT_DIR$/Queuesusinglinkedlists.py" afterDir="false" />
+
+    <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="Palindrome Checking corrections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary_palindrome.py" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +29,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+
         <entry key="$PROJECT_DIR$" value="Palindrometest" />
+
+        <entry key="$PROJECT_DIR$" value="ft.stackslists" />
+
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +61,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Palindrome.executor": "Run",
+
     "Python.Queuesusinglinkedlists.executor": "Run",
+
+
     "Python.dictionary_palindrome.executor": "Run",
     "Python.linkedlists.executor": "Run",
     "Python.linkedlists2.executor": "Run",
@@ -58,7 +72,10 @@
     "Python.stacksudinglinkedlists.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+
     "git-widget-placeholder": "queuesbasics",
+
+
     "last_opened_file_path": "C:/Users/mercy/PycharmProjects/Classwork"
   }
 }]]></component>
@@ -147,6 +164,7 @@
       <option name="project" value="LOCAL" />
       <updated>1748238664835</updated>
     </task>
+
     <task id="LOCAL-00009" summary="last commit">
       <option name="closed" value="true" />
       <created>1749029786143</created>
@@ -156,6 +174,9 @@
       <updated>1749029786143</updated>
     </task>
     <option name="localTasksCounter" value="10" />
+
+    <option name="localTasksCounter" value="9" />
+
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +186,7 @@
     <MESSAGE value="Using linked list to implement Stacks" />
     <MESSAGE value="Palindrome Checking" />
     <MESSAGE value="Palindrome Checking corrections" />
+
     <MESSAGE value="last commit" />
     <option name="LAST_COMMIT_MESSAGE" value="last commit" />
   </component>
@@ -178,5 +200,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome Checking corrections" />
+
   </component>
 </project>
