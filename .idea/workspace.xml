@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="Stacks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="last commit">
       <change afterPath="$PROJECT_DIR$/Queuesusinglinkedlists.py" afterDir="false" />
 
@@ -12,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dictionary_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary_palindrome.py" afterDir="false" />
+
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +34,13 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
 
+        <entry key="$PROJECT_DIR$" value="ft.linkedlists" />
+
+
         <entry key="$PROJECT_DIR$" value="Palindrometest" />
 
         <entry key="$PROJECT_DIR$" value="ft.stackslists" />
+
 
       </map>
     </option>
@@ -58,6 +66,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.linkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkedlists2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stacksb.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ft.stcksbasics&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mercy/PycharmProjects/demo&quot;
+  }
+}</component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Palindrome.executor": "Run",
@@ -84,6 +105,7 @@
       <recent name="C:\Users\mercy\PycharmProjects\Classwork" />
     </key>
   </component>
+
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,6 +130,9 @@
       <option name="project" value="LOCAL" />
       <updated>1747655082410</updated>
     </task>
+
+    <option name="localTasksCounter" value="2" />
+
     <task id="LOCAL-00002" summary="Stacks basics needed">
       <option name="closed" value="true" />
       <created>1748198050423</created>
@@ -177,11 +202,15 @@
 
     <option name="localTasksCounter" value="9" />
 
+
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="linked lists" />
     <MESSAGE value="Stacks" />
+
+    <option name="LAST_COMMIT_MESSAGE" value="Stacks" />
+
     <MESSAGE value="Stacks basics needed" />
     <MESSAGE value="Using linked list to implement Stacks" />
     <MESSAGE value="Palindrome Checking" />
@@ -202,6 +231,7 @@
     </breakpoint-manager>
 
     <option name="LAST_COMMIT_MESSAGE" value="Palindrome Checking corrections" />
+
 
   </component>
 </project>
