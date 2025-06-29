@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="Graphs....">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchAlgorithims.py" beforeDir="false" afterPath="$PROJECT_DIR$/SearchAlgorithims.py" afterDir="false" />
     </list>
@@ -223,6 +222,7 @@
     <MESSAGE value="This is a code to learn the integration of linked list to queues" />
     <MESSAGE value="Completed code for circular arrays" />
     <MESSAGE value="Graphs...." />
-    <option name="LAST_COMMIT_MESSAGE" value="Graphs...." />
+    <MESSAGE value="Binary Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search" />
   </component>
 </project>
