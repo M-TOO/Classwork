@@ -35,7 +35,6 @@ if not found:
     print(f"{my_key} not found in the list!")
 
 
-
 def recursive_binarysearch(start_index,end_index):
     #Base case
     if start_index > end_index:
