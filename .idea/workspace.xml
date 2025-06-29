@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cacdbead-956e-4ca6-a629-c0c6b9dcec9f" name="Changes" comment="Graphs....">
-      <change afterPath="$PROJECT_DIR$/SearchAlgorithims.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchAlgorithims.py" beforeDir="false" afterPath="$PROJECT_DIR$/SearchAlgorithims.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Graphs.executor": "Run",
-    "Python.Palindrome.executor": "Run",
-    "Python.Queuesusinglinkedlists.executor": "Run",
-    "Python.QueueswithCircularArrays.executor": "Run",
-    "Python.SearchAlgorithims.executor": "Run",
-    "Python.Traversals.executor": "Run",
-    "Python.dictionary_palindrome.executor": "Run",
-    "Python.linkedlists.executor": "Run",
-    "Python.linkedlists2.executor": "Run",
-    "Python.stacksb.executor": "Run",
-    "Python.stacksudinglinkedlists.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "ft__searchalgorithims",
-    "last_opened_file_path": "C:/Users/mercy/PycharmProjects/Classwork"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Graphs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Queuesusinglinkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QueueswithCircularArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SearchAlgorithims.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Traversals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkedlists2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stacksb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stacksudinglinkedlists.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ft__searchalgorithims&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mercy/PycharmProjects/Classwork&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mercy\PycharmProjects\Classwork" />
@@ -199,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750662022928</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Graphs....">
+      <option name="closed" value="true" />
+      <created>1751220963646</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1751220963646</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
