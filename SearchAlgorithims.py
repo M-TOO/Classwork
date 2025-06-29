@@ -11,6 +11,7 @@ for i in arr:
 
     else:
         print("Not found")
+        break
 
 
 start_index=0
